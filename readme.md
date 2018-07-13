@@ -6,8 +6,8 @@ Maven archetype for test projects
 
 Deploy archetype to your maven repository
 
-Deploy maven artefact (archetype)
-mvn clean deploy -U -DskipTests
+Deploy maven artefact (archetype) to local repository
+mvn clean install -DskipTests
 
 Create a project with your group and artifact Id's
 Place Chromedriver file in src/test/resources/selenium
