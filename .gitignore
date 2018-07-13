@@ -1,0 +1,13 @@
+# Maven
+target/
+src/main/resources/archetype-resources/archetype-resources (1).iml
+archetype-selenium-cucumber.iml
+debug.log
+
+# Eclipse
+.project
+.classpath
+.settings
+
+# Idea
+.idea
